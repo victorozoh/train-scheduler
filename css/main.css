@@ -1,0 +1,24 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.schedule-container {
+     min-width: 800px;
+}
+
+.input-container {
+     min-width: 800px;
+}
+
+ table {
+     border-collapse: separate;
+     border-spacing: 6px;
+}
+
+.jumbotron {
+     color: white;
+     background-color: #722f00;
+     min-width: 800px;
+}
